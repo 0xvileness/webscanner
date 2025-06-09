@@ -235,4 +235,4 @@ class VulnerabilityScanner:
 
 scanner = VulnerabilityScanner()
 scanner.scan()
-scanner.report_vulnerabilities()o
+scanner.report_vulnerabilities()
