@@ -14,3 +14,8 @@ Web Application Security scanning
 
 installation steps:
 
+git clone https://github.com/0xvileness/webscanner.git
+
+pip install requests 
+
+python3 scanner.py
